@@ -1,8 +1,8 @@
 sudo apt-get update
-sudo apt-get install build-essential libssl-dev 
+\sudo apt-get install build-essential libssl-dev 
 
 # import nvm
-curl https://raw.githubusercontent.com/creationix/nvm/v0.33.1/install.sh | bash 
+\curl https://raw.githubusercontent.com/creationix/nvm/v0.33.1/install.sh | bash 
 \source ~/.profile
 
 # see list of node

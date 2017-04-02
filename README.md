@@ -1,7 +1,7 @@
 # Project Title
 
 Node Version Manager Install Script - install script to manage node.js
-versions in Linux and MacOS
+versions in Linux 
 
 ## Getting Started
 
@@ -71,7 +71,6 @@ None
 ## Authors
 
 * **Philip Sales** - *adopted work* - [creationix](https://raw.githubusercontent.com/creationix/) 
-
 
 ## License
 
